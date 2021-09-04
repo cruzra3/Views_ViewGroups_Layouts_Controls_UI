@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
 //        setContentView(R.layout.linear_layout_example_multiple_weights);
 //        setContentView(R.layout.linear_layout_example_gravity);
 //        setContentView(R.layout.linear_layout_example_layout_gravity);
-        setContentView(R.layout.frame_layout_example);
+        setContentView(R.layout.frame_layout_example_layout_gravity);
     }
 }
